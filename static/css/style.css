@@ -8,3 +8,11 @@ body,
 html {
   height: 100%;
 }
+
+#legend-box {
+  background-color: rgba(255, 255, 255, 0.7); /* Background color with opacity */
+  border: 2px solid #333; /* Border with a solid color */
+  border-radius: 5px; /* Rounded corners */
+  padding: 10px; /* Spacing inside the box */
+  max-width: 200px; /* Set a maximum width for the box */
+}
