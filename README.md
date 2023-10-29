@@ -10,25 +10,27 @@ government organisations (and hopefully secure more funding) on issues facing ou
 ## Table of Contents
 - [Features](#features)
 - [Demo](#demo)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
+- [Acknowledgements](#acknowledgments)
 
 
 ## Features
 - Live dataset from USGS (http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
-- Past Hour 
-- List key features of your project.
-- Use bullet points for easy readability.
+- Past Hour (https://github.com/aaronbilbow/Challenge15/blob/main/hour.html)
+- Past Day (https://github.com/aaronbilbow/Challenge15/blob/main/day.html)
+- Past Week (https://github.com/aaronbilbow/Challenge15/blob/main/7days.html)
+- Past Month (https://github.com/aaronbilbow/Challenge15/blob/main/index.html)
+  
 
 ## Demo
+![screenshot](https://github.com/aaronbilbow/Challenge15/blob/main/screenshot.jpg)
 
-Include a link or screenshot to a live demo if applicable.
+Just open one of the below links depending on which data you want to look at and this will show the live data for that time period.
+- Past Hour (https://github.com/aaronbilbow/Challenge15/blob/main/hour.html)
+- Past Day (https://github.com/aaronbilbow/Challenge15/blob/main/day.html)
+- Past Week (https://github.com/aaronbilbow/Challenge15/blob/main/7days.html)
+- Past Month (https://github.com/aaronbilbow/Challenge15/blob/main/index.html)
 
-## Getting Started
+## Acknowledgments
+USGS earthquake data
 
-Provide clear instructions on how to get the project up and running. Include prerequisites and installation steps.
 
-```bash
-# Example code block for installation
-npm install
-npm start
