@@ -1,4 +1,4 @@
-# Project Name
+# Earthquake Visualisations
 
 ![Project Logo](https://github.com/aaronbilbow/Challenge15/blob/main/carpic.jpg)
 
