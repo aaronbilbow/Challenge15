@@ -15,10 +15,6 @@ government organisations (and hopefully secure more funding) on issues facing ou
 
 ## Features
 - Live dataset from USGS (http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
-- Past Hour (https://github.com/aaronbilbow/Challenge15/blob/main/hour.html)
-- Past Day (https://github.com/aaronbilbow/Challenge15/blob/main/day.html)
-- Past Week (https://github.com/aaronbilbow/Challenge15/blob/main/7days.html)
-- Past Month (https://github.com/aaronbilbow/Challenge15/blob/main/index.html)
   
 
 ## Demo
