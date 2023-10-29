@@ -15,6 +15,12 @@ government organisations (and hopefully secure more funding) on issues facing ou
 
 ## Features
 - Live dataset from USGS (http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
+- Javascript files for obtaining the data
+- html files for displaying the data
+- Leaflet for the interactivity (https://unpkg.com/leaflet@1.9.4/dist/leaflet.js)
+- D3 for the script source (https://d3js.org/d3.v7.min.js)
+- Open Street Maps for the maps (https://www.openstreetmap.org)
+- 
   
 
 ## Demo
